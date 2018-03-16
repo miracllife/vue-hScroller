@@ -1,9 +1,9 @@
 # vue-hScroller
 
-# Vue Scroller ![version](https://img.shields.io/badge/version-%20v2.2.0%20-green.svg) ![vue](https://img.shields.io/badge/vue-%20v2.1%20-green.svg) 
+# Vue hScroller ![version](https://img.shields.io/badge/version-%20v2.2.0%20-green.svg) ![vue](https://img.shields.io/badge/vue-%20v2.1%20-green.svg) 
 
 [Vue Scroller](https://github.com/miracllife/vue-hScroller) is a foundational component of [Vonic](https://github.com/miracllife/vonic) UI.
-In purpose of smooth scrolling, pull to refresh and infinite loading.
+In purpose of smooth horizontal scrolling, pull to refresh and infinite loading.
 
 > For vue 1.0, please refer to branch v1.
 
