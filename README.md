@@ -14,14 +14,14 @@ In purpose of smooth horizontal scrolling, pull to refresh and infinite loading.
 ## How to use
 
 ```bash
-npm i vue-scroller -S
+npm i vue-hScroller -S
 ```
 
 ```js
 /* ignore this if you include vue-hScroller.js by <script> tag from a cdn, such as unpkg */
 import Vue from 'vue'
-import VueScroller from 'vue-scroller'
-Vue.use(VueScroller)
+import VuehScroller from 'vue-hScroller'
+Vue.use(VuehScroller)
 ```
 
 ```html
@@ -36,7 +36,7 @@ Vue.use(VueScroller)
 
 ## Webpack project by vue-cli
 
-https://github.com/miracllife/vue-scroller-demo
+https://github.com/miracllife/vue-hscroller-demo
 
 ## API
 
@@ -73,7 +73,7 @@ https://github.com/miracllife/vue-scroller-demo
 #################################   declaration   ############################################
 
 
-## For the respact for coding author, we made this declaration
+## For the respect to component coding author, we made this declaration
 ## This component refferences  the vue-scroller component,whos author named wangdahoo 
 ## and his lib https://wangdahoo.github.io/vue-scroller
 ## thanks
